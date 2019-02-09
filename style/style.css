@@ -1,0 +1,21 @@
+body{
+  background-image: url("../images/london bridge3.jpg");
+  background-repeat: no-repeat;
+  background-size: 1500px 1500px
+
+}
+
+@font-face {
+  font-family: "mapoliceperso";
+  src: url("FilmLetters.ttf")
+}
+
+h1 {
+  color: black;
+  font-family: "mapoliceperso";
+  font-size: 50px;
+  text-align: center;
+  border: 2px white solid;
+  border-radius: 100px;
+  box-shadow: 6px 10px 6px white;
+}
